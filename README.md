@@ -1,7 +1,7 @@
 # webCourseQuiz
 互联网开发前后端分离项目  
 环境：idea 2019.3  
-##login: 前端代码  
+## login: 前端代码  
 框架：vue   
 1. idea下新建一个静态的网页项目，这里我给项目取名为login
 2. 依次在命令行项目工作目录下输入以下命令，初始化包结构
@@ -162,7 +162,7 @@
     ```
     到此为止，前端搭建完成  
     
-##demo：后端代码   
+## demo：后端代码   
 框架：springboot    
 1. 新建一个新的spring initializr工程，使用默认的项目名demo。依赖选择spring web。打开后import maven依赖。
 2. 新建LoginController.java 和User.java
